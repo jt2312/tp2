@@ -18645,6 +18645,11 @@
   "RootNamespace": "Tp2",
   "Documents": [
     {
+      "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Direccion\\Details.cshtml",
+      "TargetPath": "Views\\Direccion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Institucion\\Create.cshtml",
       "TargetPath": "Views\\Institucion\\Create.cshtml",
       "FileKind": "mvc"
@@ -18660,8 +18665,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Direccion\\Create.cshtml",
+      "TargetPath": "Views\\Direccion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Institucion\\Delete.cshtml",
       "TargetPath": "Views\\Institucion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Direccion\\Delete.cshtml",
+      "TargetPath": "Views\\Direccion\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18707,6 +18722,16 @@
     {
       "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Direccion\\Edit.cshtml",
+      "TargetPath": "Views\\Direccion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Views\\Direccion\\Index.cshtml",
+      "TargetPath": "Views\\Direccion\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

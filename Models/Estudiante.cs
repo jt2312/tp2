@@ -11,6 +11,10 @@ namespace Tp2.Models
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public int Edad { get; set; }
+
+        public int direccionId { get; set; }
+        public Direccion Direccion { get; set; }
+        
         public int InstitucionId { get; set; }
         public virtual Institucion Institucion { get; set; }
     }

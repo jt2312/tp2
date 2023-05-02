@@ -9,6 +9,9 @@ namespace Tp2.Models
     {
         public int Id  { get; set; }
         public string Calle { get; set; }
-       // public string EstudianteId { get; set; }
+       
+        public int EstudianteId { get; set; }
+        public Estudiante Estudiante{ get; set; }
+        
     }
 }

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Tp2.Models;
 
+
 namespace Tp2.Data
 {
     public class EstudiantContext : DbContext
@@ -18,14 +19,15 @@ namespace Tp2.Data
 
         public DbSet<Tp2.Models.Institucion> Institucion { get; set; } = default!;
 
+        public DbSet<Tp2.Models.Direccion> Direccion { get; set; } = default!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Institucion>()
-            .HasMany(p => p.Estudiantes)
-            .WithOne(p=>p.Institucion)
-            .HasForeignKey(d => d.InstitucionId);
-
-        }                
+            modelBuilder.Entity<Direccion>()
+            .HasOne(p=> p.Estudiante)
+            .WithOne(p=> p.Direccion)
+            .HasForeignKey(p => p.DireccionId);
+        }
+           
     }
 }
