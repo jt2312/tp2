@@ -23,10 +23,22 @@ namespace Tp2.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Institucion>()
+            .HasMany(p=> p.Estudiantes)
+            .WithOne()
+            .HasForeignKey(p => p.InstitucionId);
+
+
             modelBuilder.Entity<Direccion>()
             .HasOne(p=> p.Estudiante)
-            .WithOne(p=> p.Direccion)
+            .WithOne(p => p.Direccion)
             .HasForeignKey(p => p.DireccionId);
+
+            modelBuilder.Entity<Estudiante>()
+            .HasMany(p=> p.)
+            .WithMany(p => p.)
+            .HasForeignKey(p => p.);        
+
         }
            
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj": {}
+    "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj": {}
   },
   "projects": {
-    "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj": {
+    "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
+        "projectUniqueName": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
         "projectName": "Tp2",
-        "projectPath": "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
+        "projectPath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
         "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-        "outputPath": "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\obj\\",
+        "outputPath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",

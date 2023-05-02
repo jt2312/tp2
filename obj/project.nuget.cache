@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wp5ZrubkngrCH2hC0x1bwcua25laF05NvU5MGZ5OkmHhxaIqqZqSa25wiNHTAQfvxmKDbhAsiQ8DQ6n5SC2WWg==",
+  "dgSpecHash": "AQC6+0ynXARks96dXBoII8uDbq9qg+gKxmnwV8UpT+87aVsaZRFNPdTjrGQt6yVIes0mvk6JmLkS4+QFqBHqHw==",
   "success": true,
-  "projectFilePath": "F:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
+  "projectFilePath": "f:\\Analisis en sistemas\\ISTEA\\3er cuatri\\HerramientasDeProg2\\Tp2\\Tp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julian\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Julian\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
